@@ -19,7 +19,7 @@
 
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.soundcloud.com/Geminiifx">
     <img src="https://img.shields.io/badge/Soundcloud-Orange?style=for-the-badge&logo=Soundcloud&logoColor=orange" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
