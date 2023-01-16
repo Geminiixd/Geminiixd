@@ -21,7 +21,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/W9MrfVxE4s2Zi/giphy.gif" width="120"/>
+  <img src="https://media1.giphy.com/media/W9MrfVxE4s2Zi/giphy.gif" width="120px"/>
 </div>
 
 
