@@ -22,7 +22,7 @@
   <a href="https://www.soundcloud.com/Geminiifx">
     <img src="https://img.shields.io/badge/Soundcloud-Orange?style=for-the-badge&logo=Soundcloud&logoColor=orange" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/@geminiedit">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
