@@ -14,7 +14,7 @@
 
 
 
-
+<p> Currently learning <a href="https://discord.js.org/#/">Discord js</a> & <a href="https://en.wikipedia.org/wiki/HTML">HTML</a> </p>
 
 
 
