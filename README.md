@@ -11,7 +11,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Gemiinixd)
 
 
-
+If you needed any help or wanted to talk to me just DM me on discord Gemini#7548
 
 
 <p> Currently learning <a href="https://discord.js.org/#/">Discord js</a> & <a href="https://en.wikipedia.org/wiki/HTML">HTML</a> </p> <a href="https://en.wikipedia.org/wiki/CSS">CSS</a> </p>
