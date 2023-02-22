@@ -13,3 +13,7 @@ Hi! Im Gemini, Im a Front end developer and beginner Software developer who love
     <img src="https://skillicons.dev/icons?i=html,css,js,cs,ae,pr,au" />
   </a>
 </p>
+<hr>
+
+<h2 align= "center"> Socials </h2>
+<hr>
