@@ -15,5 +15,5 @@ Hi! Im Gemini, Im a Front end developer and beginner Software developer who love
 </p>
 <hr>
 
-<p align= "center"> **Socials** </p>
+<h5 align= "center"> Socials </h5>
 
