@@ -30,6 +30,4 @@ Hi! Im Gemini, Im a Front end developer and beginner Software developer who love
    </p>
 <details open>
 align="center"
-  <p>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Geminiixd&theme=dark)](https://git.io/streak-stats)
-  </p>
+<img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"
