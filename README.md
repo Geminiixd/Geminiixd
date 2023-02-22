@@ -29,5 +29,5 @@ Hi! Im Gemini, Im a Front end developer and beginner Software developer who love
      
    </p>
 <details open>
-align="center"
+
 <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"
