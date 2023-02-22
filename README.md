@@ -1,40 +1,8 @@
-# Readme
-
-
-<h1>
-  Hey, Im Gemini and im a beginner web developer
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+# Readme 
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Gemiinixd)
-
-
-If you needed any help or wanted to talk to me just DM me on discord Gemini#7548
-
-
-<p> Currently learning <a href="https://discord.js.org/#/">Discord js</a> & <a href="https://en.wikipedia.org/wiki/HTML">HTML</a> </p> <a href="https://en.wikipedia.org/wiki/CSS">CSS</a> </p>
-
-
-
-
-
-<div id="header" align="center">
-  <img src="https://media1.giphy.com/media/W9MrfVxE4s2Zi/giphy.gif" width="120px"/>
-</div>
-
-
-
-
-<div id="badges">
-  <a href="https://www.soundcloud.com/Geminiifx">
-    <img src="https://img.shields.io/badge/Soundcloud-Orange?style=for-the-badge&logo=Soundcloud&logoColor=orange" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@geminiedit">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.twitter.com/arasvlrr">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+<p align="center"> 
+  
+Hi! Im Gemini, Im a Front end developer and beginner Software developer who loves anime and developing applications and website! 
+  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,ae,c#)](https://skills.thijs.gg)
