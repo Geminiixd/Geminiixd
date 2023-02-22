@@ -17,10 +17,13 @@ Hi! Im Gemini, Im a Front end developer and beginner Software developer who love
 
 <h5 align= "center"> Socials </h5>
 
+<p align="center"
+
 [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/your_handle)
 [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/your_handle)
 [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/your_handle)
 [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/your_handle)
 [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/your_handle)
 [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/your_handle)
+   </p>
 
