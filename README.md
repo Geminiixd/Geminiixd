@@ -5,4 +5,11 @@
 <p align="center"> 
   
 Hi! Im Gemini, Im a Front end developer and beginner Software developer who loves anime and developing applications and website! 
- [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,ae,cs,pr,python,au)](https://geminiixd.github.io)
+ </p>
+ 
+ 
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,ae,pr,au" />
+  </a>
+</p>
