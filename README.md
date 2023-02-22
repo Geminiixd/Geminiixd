@@ -6,6 +6,7 @@
   
 Hi! Im Gemini, Im a Front end developer and beginner Software developer who loves anime and developing applications and website! 
  </p>
+ <hr>
  
  
  <p align="center">
