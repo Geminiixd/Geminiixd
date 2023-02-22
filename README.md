@@ -19,8 +19,8 @@ Hi! Im Gemini, Im a Front end developer and beginner Software developer who love
 
 <p align="center"
 
-[![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/your_handle)
-[![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/your_handle)
+[![twitter](https://socialize-md.vercel.app/api/badge/discord)](https://twitter.com/your_handle)
+[![twitter](https://socialize-md.vercel.app/api/badge/youtube)](https://twitter.com/your_handle)
 [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/your_handle)
 [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/your_handle)
 [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/your_handle)
