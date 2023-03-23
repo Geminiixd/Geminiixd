@@ -4,18 +4,18 @@
 
 <p align="center"> 
   
-Hi! Im Gemini, Im a Full Stack developer and beginner Software developer who loves anime and developing applications and website!</p>
+Hi! Im Gemini, Im a Full Stack developer and beginner Software developer who loves anime and developing applications and websites!</p>
  <hr>
- 
- <h1> Projects That im Currently Working on </h1>
- 
-<table>
+ <table>
   <tr>
     <th>  Todo app with high level UI design + calendar + time schedule program + todo clear button </th>
     <th>  Todo app with high level UI design + calendar + time schedule program + todo clear button </th>
     <th>  Todo app with high level UI design + calendar + time schedule program + todo clear button </th>
     <th>  Todo app with high level UI design + calendar + time schedule program + todo clear button </th>
   </tr>
+ <h1> Projects That im Currently Working on </h1>
+ 
+
  
 <h2> All applications/languages i have worked in advance </h1>
  <p align="center">
