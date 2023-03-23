@@ -7,12 +7,13 @@
 Hi! Im Gemini, Im a Full Stack developer and beginner Software developer who loves anime and developing applications and website!</p>
  <hr>
  
- <detail>
+ <details>
  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,cs,php,ae,pr,au" />
   </a>
 </p>
+  </details>
 
 
 <h5 align= "center"> Socials </h5>
