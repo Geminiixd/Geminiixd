@@ -37,7 +37,7 @@ Hi! Im Gemini, Im a Full Stack developer and beginner Software developer who lov
   </a>
 </p>
   
-  <h3> Frameworks That i like to work with </h3>
+  <h3> Favorite Code editor + IDE's </h3>
 
  <p align="left">
   <a href="https://skillicons.dev">
@@ -45,6 +45,9 @@ Hi! Im Gemini, Im a Full Stack developer and beginner Software developer who lov
   </a>
   
 </p>
+
+<p>
+  Micorosft Visual studio code (for c languages) + Netbanes IDE (for php + java)
   
 
 
