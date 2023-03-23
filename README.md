@@ -23,9 +23,17 @@ Hi! Im Gemini, Im a Full Stack developer and beginner Software developer who lov
 </p>
 
 <h2> Languages that i have planned on learning </h2>
- <p align="center">
+ <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,cpp,java" />
+  </a>
+</p>
+
+<h3> Frameworks That i like to work with </h3>
+
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react" />
   </a>
 </p>
   
