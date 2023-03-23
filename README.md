@@ -31,7 +31,7 @@ Hi! Im Gemini, Im a Full Stack developer and beginner Software developer who lov
 
 <h3> Frameworks That i like to work with </h3>
 
- <p align="center">
+ <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
