@@ -22,6 +22,8 @@ Hi! Im Gemini, Im a Full Stack developer and beginner Software developer who lov
   </a>
 </p>
 
+<h2> Languages that i have planned on learning </h2>
+
   
 
 
