@@ -13,7 +13,7 @@ Hi! Im Gemini, Im a Full Stack developer and beginner Software developer who lov
     <img src="https://skillicons.dev/icons?i=html,css,js,cs,php,ae,pr,au" />
   </a>
 </p>
-  </details>
+  
 
 
 <h5 align= "center"> Socials </h5>
