@@ -41,8 +41,9 @@ Hi! Im Gemini, Im a Full Stack developer and beginner Software developer who lov
 
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode" /> + Netbeans ide + Visual Studio
+    <img src="https://skillicons.dev/icons?i=vscode" /> 
   </a>
+  + Netbeans ide + Visual Studio
 </p>
   
 
