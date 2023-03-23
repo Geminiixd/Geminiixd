@@ -6,14 +6,7 @@
   
 Hi! Im Gemini, Im a Full Stack developer and beginner Software developer who loves anime and developing applications and websites!</p>
  <hr>
- <table>
-  <tr>
-    <th>  Todo app with high level UI design + calendar + time schedule program + todo clear button </th>
-    <th>  Todo app with high level UI design + calendar + time schedule program + todo clear button </th>
-    <th>  Todo app with high level UI design + calendar + time schedule program + todo clear button </th>
-    <th>  Todo app with high level UI design + calendar + time schedule program + todo clear button </th>
-  </tr>
- <h1> Projects That im Currently Working on </h1>
+
  
 
  
@@ -81,6 +74,15 @@ Hi! Im Gemini, Im a Full Stack developer and beginner Software developer who lov
 [![GitHub Streak](https://streak-stats.demolab.com?user=Geminiixd&theme=dark)](https://git.io/streak-stats)
   
   </details>
+  
+   <table>
+  <tr>
+    <th>  Todo app with high level UI design + calendar + time schedule program + todo clear button </th>
+    <th>  Todo app with high level UI design + calendar + time schedule program + todo clear button </th>
+    <th>  Todo app with high level UI design + calendar + time schedule program + todo clear button </th>
+    <th>  Todo app with high level UI design + calendar + time schedule program + todo clear button </th>
+  </tr>
+ <h1> Projects That im Currently Working on </h1>
   
   
   
