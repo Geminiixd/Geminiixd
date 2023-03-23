@@ -37,6 +37,14 @@ Hi! Im Gemini, Im a Full Stack developer and beginner Software developer who lov
   </a>
 </p>
   
+  <h3> Frameworks That i like to work with </h3>
+
+ <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode" /> + Netbeans ide + Visual Studio
+  </a>
+</p>
+  
 
 
 <h5 align= "center"> Socials </h5>
