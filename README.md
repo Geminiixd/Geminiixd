@@ -78,9 +78,9 @@ Hi! Im Gemini, Im a Full Stack developer and beginner Software developer who lov
    <table>
   <tr>
     <th>  Todo app with high level UI design + calendar + time schedule program + todo clear button </th>
-    <th>  Todo app with high level UI design + calendar + time schedule program + todo clear button </th>
-    <th>  Todo app with high level UI design + calendar + time schedule program + todo clear button </th>
-    <th>  Todo app with high level UI design + calendar + time schedule program + todo clear button </th>
+    <th>  </th>
+    <th>  </th>
+    <th>   </th>
   </tr>
  <h1> Projects That im Currently Working on </h1>
   
