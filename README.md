@@ -12,7 +12,8 @@ Hi! Im Gemini, Im a Full Stack developer and beginner Software developer who lov
  [![Discord Presence](https://lanyard.cnrad.dev/api/1005071626133577838)](https://discord.com/users/1005071626133577838)
  
  <h2>Discord Server</h2>
-<img src="https://discord.com/api/guilds/1089934517214662686/widget.png?style=banner4" alt="Discord Banner 4"/>
+
+    <iframe src="https://discord.com/widget?id=810523516335161396&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 
  
 
