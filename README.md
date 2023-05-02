@@ -18,27 +18,13 @@ Hi! Im Gemini, a frontend developer webr who loves anime and websites! i also co
 
 
  
-<h2> All applications/languages i have worked in advance </h1>
+<h2> All applications and Languages i have worked  </h1>
  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,cs,php,ae,pr,au" />
   </a>
 </p>
 
-
-<h2> Languages that im learning right now </h2>
- <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,php,py" />
-  </a>
-</p>
-
-<h2> Languages that i have planned on learning </h2>
- <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,cpp,java" />
-  </a>
-</p>
 
 <h3> Frameworks That i like to work with </h3>
 
