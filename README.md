@@ -80,8 +80,6 @@ Hi! Im Gemini, Im a Full Stack developer and beginner Software developer who lov
   </details>
   
 
- <h1> Projects That im Currently Working on </h1>
-  
   
   
 
