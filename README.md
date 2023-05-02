@@ -9,7 +9,7 @@ Hi! Im Gemini, Im a Full Stack developer and beginner Software developer who lov
  
  <h2> My discord </h2>
  
- [![Discord Presence](https://lanyard.cnrad.dev/api/:1005071626133577838)](https://discord.com/users/:1005071626133577838)
+ [![Discord Presence](https://lanyard.cnrad.dev/api/1005071626133577838)](https://discord.com/users/1005071626133577838)
 
  
 
