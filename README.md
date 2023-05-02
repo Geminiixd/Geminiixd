@@ -13,7 +13,8 @@ Hi! Im Gemini, a frontend developer webr who loves anime and websites! i also co
  
  <h2>Discord Server</h2>
  <img src="https://discord.com/api/guilds/1089934517214662686/widget.png?style=banner1" alt="Discord Banner 1"/><br>
- <a href="https://discord.gg/Zu25xfe2XY"><button>Join RAY</button></a>
+[<kbd> <br> Title <br> </kbd>][Link]
+[Link]: # 'https://discord.gg/Zu25xfe2XY'
     
 
  
