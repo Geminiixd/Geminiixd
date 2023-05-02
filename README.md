@@ -15,27 +15,7 @@ Hi! Im Gemini, a frontend developer webr who loves anime and websites! i also co
  <img src="https://discord.com/api/guilds/1089934517214662686/widget.png?style=banner1" alt="Discord Banner 1"/><br>
 <a href="https://discord.gg/Zu25xfe2XY" Title <br> </kbd> </a>
 
-```markdown
-[![Button Example]][Link]
-```
 
-```markdown
-<!----------------------------------------------------------------------------->
-```
-
-```markdown
-[Link]: # 'Link with example title.'
-```
-
-```markdown
-<!---------------------------------[ Buttons ]--------------------------------->
-```
-
-```markdown
-[Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
-    
-
- 
 
  
 <h2> All applications/languages i have worked in advance </h1>
