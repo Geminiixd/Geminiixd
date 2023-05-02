@@ -12,7 +12,8 @@ Hi! Im Gemini, a frontend developer webr who loves anime and websites! i also co
  [![Discord Presence](https://lanyard.cnrad.dev/api/1005071626133577838)](https://discord.com/users/1005071626133577838)
  
  <h2>Discord Server</h2>
-<img src="https://discord.com/widget?id=810523516335161396&theme=dark"">
+ <img src="https://discord.com/api/guilds/810523516335161396/widget.png?style=banner1" alt="Discord Banner 1"/><br>
+ <a href="https://discord.gg/Zu25xfe2XY"><button>Join RAY</button></a>
     
 
  
