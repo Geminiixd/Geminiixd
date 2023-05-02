@@ -6,6 +6,10 @@
   
 Hi! Im Gemini, Im a Full Stack developer and beginner Software developer who loves anime and developing applications and websites!</p>
  <hr>
+ 
+ <h2> My discord </h2>
+ 
+ [![Discord Presence](https://lanyard.cnrad.dev/api/:1005071626133577838)](https://discord.com/users/:1005071626133577838)
 
  
 
