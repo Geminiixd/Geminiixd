@@ -30,7 +30,7 @@ Hi! Im Gemini, a frontend developer webr who loves anime and websites! i also co
 
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react" <img src="https://skillicons.dev/icons?i=vue">
+    <img src="https://skillicons.dev/icons?i=react"> <img src="https://skillicons.dev/icons?i=vue">
   </a>
 </p>
   
