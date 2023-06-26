@@ -18,7 +18,7 @@ Hi! Im Gemini, a frontend developer webr who loves anime and websites! i also co
 
 
  
-<h2> All applications and Languages i have worked  </h1>
+<h2> All applications and Languages that i have worked  </h1>
  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,cs,php,ae,pr,au" />
