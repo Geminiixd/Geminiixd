@@ -4,7 +4,7 @@
 
 <p align="center"> 
   
-Hi! Im Gemini, a frontend developer webr who loves anime and websites! i also code discord bots with discordjs</p>
+Hi! Im Gemini!
  <hr>
 
 
