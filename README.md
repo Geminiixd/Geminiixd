@@ -19,13 +19,12 @@ Hi! Im Gemini, a frontend developer webr who loves anime and websites! i also co
 
 <h3> Software skills </h3>
 
- <p align="left">
+ <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react"> <img src="https://skillicons.dev/icons?i=ae"> <img src="https://skillicons.dev/icons?i=pr"> <img src="https://skillicons.dev/icons?i=ps">
   </a>
 </p>
-  <h3> Favorite Code editor + IDE's </h3>
-<p align="center">
+
 
   
   </details>
