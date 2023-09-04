@@ -10,14 +10,8 @@ Hi! Im Gemini, a frontend developer webr who loves anime and websites! i also co
  <h2> My discord </h2>
  
  [![Discord Presence](https://lanyard.cnrad.dev/api/1005071626133577838)](https://discord.com/users/1005071626133577838)
- 
- <h2>Discord Server</h2>
- <img src="https://discord.com/api/guilds/1089934517214662686/widget.png?style=banner1" alt="Discord Banner 1"/><br>
-<a href="https://discord.gg/Zu25xfe2XY" Title <br> </kbd> </a>
 
-
-
- 
+  
 <h2> All applications and Languages that i have worked  </h1>
  <p align="center">
   <a href="https://skillicons.dev">
