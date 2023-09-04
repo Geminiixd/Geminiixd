@@ -26,7 +26,7 @@ Hi! Im Gemini, a frontend developer webr who loves anime and websites! i also co
 </p>
   <h3> Favorite Code editor + IDE's </h3>
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=Geminiixd&theme=dark)](https://git.io/streak-stats)
+
   
   </details>
   
