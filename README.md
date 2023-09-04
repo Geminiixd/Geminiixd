@@ -12,19 +12,19 @@ Hi! Im Gemini, a frontend developer webr who loves anime and websites! i also co
  [![Discord Presence](https://lanyard.cnrad.dev/api/1005071626133577838)](https://discord.com/users/1005071626133577838)
 
   
-<h2> All applications and Languages that i have worked  </h1>
+<h2> Programming skills  </h1>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,php,ae,pr,au" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs" />
   </a>
 </p>
 
 
-<h3> Frameworks That i like to work with </h3>
+<h3> Software skills </h3>
 
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react"> <img src="https://skillicons.dev/icons?i=vue">
+    <img src="https://skillicons.dev/icons?i=react"> <img src="https://skillicons.dev/icons?i=react,ae,pr,psd">
   </a>
 </p>
   
