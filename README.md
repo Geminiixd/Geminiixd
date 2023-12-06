@@ -4,8 +4,8 @@
 
 <p align="center"> 
   
-Hi! Im Gemini!
- <hr>
+![Header](./[github-header-image.png])
+</p>
 
 
   
