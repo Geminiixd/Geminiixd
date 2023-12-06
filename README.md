@@ -1,31 +1,12 @@
-# Readme 
-
-
-
 
 ![Header](./github-header-image.png)
 
 
   
-<h2> Programming skills  </h1>
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs" />
-  </a>
+<h2>Programming Skills</h2>
+<p align="center">
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 </p>
-
-
-<h3> Software skills </h3>
-
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react"> <img src="https://skillicons.dev/icons?i=ae"> <img src="https://skillicons.dev/icons?i=pr"> <img src="https://skillicons.dev/icons?i=ps">
-  </a>
-</p>
-
-
-  
-  </details>
   
   
   
