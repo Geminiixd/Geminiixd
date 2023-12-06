@@ -28,8 +28,9 @@
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
-
+  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geminiixd&show_icons=true&theme=transparent) 
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=arassahraiian&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   
   
