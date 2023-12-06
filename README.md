@@ -13,8 +13,23 @@
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 </p>
+<h2>Editing Skills</h2>
+<p align="center">
+    <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
+    <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+</p>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geminiixd&show_icons=true&theme=transparent)
+<p align="center">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</p>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geminiixd&show_icons=true&theme=transparent) [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=arassahraiian&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   
   
 
