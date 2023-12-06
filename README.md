@@ -32,6 +32,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geminiixd&show_icons=true&theme=transparent) 
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=arassahraiian&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+  [![Dhyey's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCpKizIKSk8ga_LCI3e3GUig)](https://www.youtube.com/channel/UCpKizIKSk8ga_LCI3e3GUig)
   
   
 
