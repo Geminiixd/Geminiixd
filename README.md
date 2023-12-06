@@ -3,7 +3,7 @@
 
 
 
-![Header](././[github-header-image.png])
+![Header](./[https://github.com/Geminiixd/Geminiixd/blob/main/github-header-image.png])
 
 
   
